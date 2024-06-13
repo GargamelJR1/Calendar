@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/GargamelJR1/Calendar_Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/GargamelJR1/Calendar_Backend.git
